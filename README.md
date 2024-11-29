@@ -11,6 +11,8 @@ A Python-based bot that generates dynamic Bitcoin roller coaster GIFs and posts 
 - Pulls Google Trends data for Bitcoin searches over the last 12 months.
 - Generates dynamic roller coaster GIFs that visualize price trends.
 - Posts the GIFs along with relevant stats to Twitter using the Twitter API v2.
+- 
+![Capture](https://github.com/user-attachments/assets/04589949-6248-4c03-9ab0-7d3a0be0aa7e)
 
 ---
 ![bitcoin_roller_coaster](https://github.com/user-attachments/assets/c037ef35-a7c3-4816-8b42-d539ee4a99b1)
